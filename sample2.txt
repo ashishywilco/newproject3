@@ -1,2 +1,6 @@
 sampletext2
+<<<<<<< HEAD
 adding from local
+=======
+Adding changes
+>>>>>>> 89982b5ca51e98b76c9665a695980d50ed7d6044
